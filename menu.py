@@ -1,3 +1,6 @@
+#Utilized tutoring, a study group, and the Xpert Learning Assistant to help 
+# understand and complete the coding challenge.
+
 # Menu dictionary
 menu = {
     "Snacks": {
